@@ -9,8 +9,8 @@ Mi nombre es Luis Ezcurdia y soy desarrollador en Ruby con más de 10 años de e
 
 A lo largo de mi carrera he utilizado diversos lenguajes(C/C++, Python, D, Go, Swift, Elixir, Rust) y pese a que todos ellos tienen features muy sexys, siempre regreso a Ruby ya que es el lenguaje con el todo es mas intuitivo. Ademas creo, sin lugar a dudas, Ruby es el mejor lenguaje para aprender POO y buenas practicas de programacion, asi como distintos patrones de diseño utilizados en la industria.
 
-Si a pesar de tener todos los recursos en línea, no tienes a alguien que te guíe o ayude en la construcción de tu carrera profesional, esta es una buena oportunidad. Solo deja un PR creando un archivo de markdown dentro del directorio de [grogus](https://github.com/3zcurdia/mentor.rb/tree/main/grogus) en el que escribas porque quieres ser mentoreado.
+Si a pesar de tener todos los recursos en línea, no tienes a alguien que te guíe o ayude en la construcción de tu carrera profesional, esta es una buena oportunidad. Solo deja un PR creando un archivo de markdown dentro del directorio de [grogus](https://github.com/3zcurdia/mentor.rb/tree/main/grogus), en el archivo debes escribir por qué quieres participar.
 
-Los horarios y proyectos a trabajar seran determinados a partir de sus PR, seleccionare un grupo pequeño de 5 a 7 estudiantes. 
+Los horarios y proyectos a trabajar seran determinados a partir de sus PR, seleccionaré un grupo pequeño de 5 a 7 estudiantes. 
 
 Buena suerte
